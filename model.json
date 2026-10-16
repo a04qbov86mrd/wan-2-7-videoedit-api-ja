@@ -1,0 +1,15 @@
+{
+  "id": "wan2.7-videoedit",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-16T05:40:55Z",
+  "prices": {
+    "default": {
+      "list": 0.083,
+      "effective": 0.0664
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0664 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/wan-2-7-videoedit"
+}
